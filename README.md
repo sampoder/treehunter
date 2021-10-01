@@ -1,2 +1,2 @@
-# treehunter
-🌳 Gotta hunt them all!
+# 🌳 treehunter
+Gotta hunt them all!
